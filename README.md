@@ -24,8 +24,10 @@ As principais entregas foram:
 - **Relatório técnico**, com resumo dos ativos, níveis de risco e geração de PDF.
 
 ## Análises
+Neste projeto, a análise foi feita a partir do banco de dados criado neste repositório, que consolida as medições históricas de vibração dos motores. A partir dele, o notebook organiza os dados, trata inconsistências, remove outliers, suaviza as séries e ajusta uma curva exponencial para estimar a evolução do RMS ao longo do tempo. Com isso, foi possível identificar possíveis cortes por manutenção, prever a aproximação aos limites de aviso e criticidade e gerar uma visão consolidada com tabelas e gráficos para apoiar decisões de manutenção e compra de peças.
 
-Em breve.
+https://colab.research.google.com/drive/1TcYOb_t6Al_EXMnFitQdCE_jLv9bqLGt?usp=sharing
+
 
 ## Resultado
 
